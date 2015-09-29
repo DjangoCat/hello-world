@@ -1,2 +1,2 @@
 # hello-world
-The beginning
+The beginning makes life a singularity again.
